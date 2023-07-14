@@ -1,5 +1,4 @@
 from aiogram import types, Dispatcher
-from create_bot import bot
 
 
 async def all_command(message: types.Message):
